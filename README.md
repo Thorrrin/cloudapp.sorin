@@ -1,0 +1,2 @@
+# cloudapp.sorin
+CRUD app
